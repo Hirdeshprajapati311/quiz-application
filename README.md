@@ -1,3 +1,17 @@
+#Basic Quiz Application
+
+This application uses React incorporated with Typescript and SCSS to give user a simple and good appeal inspiration taken from testline app 
+
+basic features where i have integrated an dummy API to fetch data quizes and app gives scores for each right answer.
+
+#How to use 
+
+install it and save in your system after that run "npm install" in your terminal
+for SCSS installation use "npm install scss"
+to run use "npm run dev"
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
